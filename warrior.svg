@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="80pt" version="1.1" xmlns="http://www.w3.org/2000/svg" height="80pt" viewBox="0 0 80 80" xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs/>
+ <g id="Fondo">
+  <path style="stroke:#ff0000; stroke-width:2; stroke-linecap:butt; stroke-linejoin:miter; stroke-dasharray:none;" d="M 0 0 L 24 0" transform="translate(18.5, 62.25) rotate(298.072)"/>
+  <path style="stroke:#ff0000; stroke-width:2; stroke-linecap:butt; stroke-linejoin:miter; stroke-dasharray:none;" d="M 0 0 L 24 0" transform="translate(29.875, 41.5) rotate(60.9454)"/>
+  <path style="stroke:#ff0000; stroke-width:2; stroke-linecap:butt; stroke-linejoin:miter; stroke-dasharray:none;" d="M 0 0 L 21.0093 0" transform="translate(30, 41.5) rotate(268.295)"/>
+  <path style="stroke:#ff0000; stroke-width:2; stroke-linecap:butt; stroke-linejoin:miter; stroke-dasharray:none;" d="M 0 0 L 15 0" transform="translate(29.75, 19.75) rotate(37.725)"/>
+  <path style="stroke:#ff0000; stroke-width:2; stroke-linecap:butt; stroke-linejoin:miter; stroke-dasharray:none;" d="M 0 0 L 15 0" transform="translate(28.25, 20.5) rotate(141.843)"/>
+  <path style="fill:#0000ff; fill-rule:evenodd;stroke:#ff0000; stroke-width:2; stroke-linecap:butt; stroke-linejoin:miter; stroke-dasharray:none;" d="M10.125 5.0625 C10.125 7.85854 7.85854 10.125 5.0625 10.125 C2.26656 10.125 0 7.85854 0 5.0625 C0 2.26656 2.26656 0 5.0625 0 C7.85854 0 10.125 2.26656 10.125 5.0625 Z" transform="translate(23.875, 9.625)"/>
+  <path style="stroke:#ff0000; stroke-width:2; stroke-linecap:butt; stroke-linejoin:miter; stroke-dasharray:none;" d="M 0 0 L 18.5691 0" transform="translate(40.125, 29) rotate(316.637)"/>
+  <path style="stroke:#ff0000; stroke-width:2; stroke-linecap:butt; stroke-linejoin:miter; stroke-dasharray:none;" d="M 0 0 L 3.72911 0" transform="translate(41.625, 25.125) rotate(50.4403)"/>
+ </g>
+</svg>
